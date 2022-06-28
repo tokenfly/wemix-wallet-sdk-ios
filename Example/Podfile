@@ -1,0 +1,26 @@
+
+platform :ios, '12.0'
+source 'https://github.com/CocoaPods/Specs.git'
+
+
+def import_pods
+  pod 'Alamofire'
+end
+
+
+target 'WemixWalletSDK-iOS_Example' do
+  
+  use_frameworks!
+  
+  import_pods
+  
+  pod 'WemixWalletSDK-iOS', :path => '../'
+
+  target 'WemixWalletSDK-iOS_Tests' do
+    inherit! :search_paths
+  
+    import_pods
+    
+  end
+  
+end

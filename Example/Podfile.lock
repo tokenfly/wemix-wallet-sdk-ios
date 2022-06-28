@@ -1,0 +1,24 @@
+PODS:
+  - Alamofire (5.6.1)
+  - WemixWalletSDK-iOS (0.1.0):
+    - Alamofire
+
+DEPENDENCIES:
+  - Alamofire
+  - WemixWalletSDK-iOS (from `../`)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - Alamofire
+
+EXTERNAL SOURCES:
+  WemixWalletSDK-iOS:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Alamofire: 87bd8c952f9a4454320fce00d9cc3de57bcadaf5
+  WemixWalletSDK-iOS: 8378905967b8fcf2587a4a69adb9c3a1eaf3acdf
+
+PODFILE CHECKSUM: ef952c831a6e6d0904f0401fc2903a1c45121794
+
+COCOAPODS: 1.11.2

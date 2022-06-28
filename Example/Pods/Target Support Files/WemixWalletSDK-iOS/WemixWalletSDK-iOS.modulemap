@@ -1,0 +1,6 @@
+framework module WemixWalletSDK_iOS {
+  umbrella header "WemixWalletSDK-iOS-umbrella.h"
+
+  export *
+  module * { export * }
+}
