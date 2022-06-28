@@ -9,6 +9,7 @@ Provide iOS with the API required for the following items to be requested for We
 
 ## WorkFlow
 
+
 ## Installation
 WemixWalletSDK-iOS is available through [CocoaPods](https://cocoapods.org). To install
 it, simply add the following line to your Podfile:
@@ -21,9 +22,7 @@ end
 
 ## Domain Setting
 The SDK is based on the mainnet. If you want to set it to TestNet, add the "A2A Wemix Domain" key to the plist file and type url below.
-> Key : A2A Wemix Domain
-
-> Value : http<nolink>://a2a.test.wemix.com
+> Key : A2A Wemix Domain, Value : http<nolink>://a2a.test.wemix.com
 
 ![Setting](https://github.com/nxtmeta/wemix-wallet-sdk-ios/blob/master/Example/WemixWalletSDK-iOS/url_setting.png)
 
@@ -138,11 +137,6 @@ If there is a result of the request in Wemix Wallet App, the API is called as fo
         }
     }
 ```
-
-## Requirements
-
-## Installation
-
 
 
 ## Author
