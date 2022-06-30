@@ -44,6 +44,8 @@ Add the following line to your info.plist
 <string>http://a2a.test.wemix.com</string>
 ```
 
+![Setting](https://github.com/wemixarchive/wemix-wallet-sdk-ios/blob/master/Example/WemixWalletSDK-iOS/url_setting.png)
+
 ## API
 
 In the iOS SDK, App-to-App requests are progressed in two main steps : `Proposal`, `Result`
