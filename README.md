@@ -44,7 +44,7 @@ Add the following line to your info.plist
 <string>http://a2a.test.wemix.com</string>
 ```
 
-![Setting](https://github.com/wemixarchive/wemix-wallet-sdk-ios/blob/master/Example/WemixWalletSDK-iOS/url_setting.png)
+![Setting](https://github.com/wemixarchive/wemix-wallet-sdk-ios/blob/main/Example/WemixWalletSDK-iOS/url_setting.png)
 
 ## API
 
