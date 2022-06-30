@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>A2A Wemix Domain</key>
-	<string>http://a2a.test.wemix.com</string>
+	<string>https://a2a.test.wemix.com</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>

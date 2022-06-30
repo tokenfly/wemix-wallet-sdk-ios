@@ -1,6 +1,6 @@
-# WEMIX Wallet SDK for iOS (Swift)
 
-Provide iOS with the API required for the following items to be requested for Wemix Wallet App.
+# WemixWalletSDK for iOS(Swift)
+  SDK for iOS that connect WEMIX Wallet App to dApp.
 
 ## Requirements
 
